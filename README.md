@@ -35,23 +35,23 @@ Failles documentées
 3            Authentification cassée          Elevé
 4            Exposition de données sensible   Elévé
 
-##Le rapport détaillé est disponible dans le dossier /docs
+## Le rapport détaillé est disponible dans le dossier /docs
 Captures d'écran
-##Disponibles dans le dossier /screenshots
+## Disponibles dans le dossier /screenshots
 
-###Difficultés rencontrées
+## Difficultés rencontrées
 +Configuration du réseau WiFi sur Kali Linux
 +Problèmes de timeout lors de l'installation via npm
 
-###Solution : 
+## Solution : 
 -utilisation de la version pré-compilée de Juice Shop
 
-###Améliorations possibles
+## Améliorations possibles
 +Tester davantage de failles (CSRF, broken access control)
 +Utiliser OWASP ZAP pour un scan automatique
 +Tester avec Burp Suite
 
-###Ce que j'ai appris
+## Ce que j'ai appris
 -Comment fonctionne une injection SQL
 -Comment fonctionne une attaque XSS
 -L'importance des questions secrètes comme mauvaise pratique
