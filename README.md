@@ -40,20 +40,20 @@ Captures d'écran
 ## Disponibles dans le dossier /screenshots
 
 ## Difficultés rencontrées
-+Configuration du réseau WiFi sur Kali Linux
-+Problèmes de timeout lors de l'installation via npm
++ Configuration du réseau WiFi sur Kali Linux
++ Problèmes de timeout lors de l'installation via npm
 
 ## Solution : 
--utilisation de la version pré-compilée de Juice Shop
+- utilisation de la version pré-compilée de Juice Shop
 
 ## Améliorations possibles
-+Tester davantage de failles (CSRF, broken access control)
-+Utiliser OWASP ZAP pour un scan automatique
-+Tester avec Burp Suite
++ Tester davantage de failles (CSRF, broken access control)
++ Utiliser OWASP ZAP pour un scan automatique
++ Tester avec Burp Suite
 
 ## Ce que j'ai appris
--Comment fonctionne une injection SQL
--Comment fonctionne une attaque XSS
--L'importance des questions secrètes comme mauvaise pratique
--Les risques liés à l'exposition de fichiers sensibles
--L'utilisation de Kali Linux pour la cybersécurité
+- Comment fonctionne une injection SQL
+- Comment fonctionne une attaque XSS
+- L'importance des questions secrètes comme mauvaise pratique
+- Les risques liés à l'exposition de fichiers sensibles
+- L'utilisation de Kali Linux pour la cybersécurité
